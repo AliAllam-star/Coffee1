@@ -108,7 +108,7 @@ header .name {
     margin-top: -20px;
     font-weight: bold;
     position: relative;
-    z-index: 3;
+    z-index: 1;
 }
 .home .cafe .art {
     font-size: 108px;
