@@ -391,6 +391,12 @@ header .name {
     border-radius: 3px;
     margin-top: 20px;
 }
+.menu .boxes .box img.Espresso {
+    border-radius: 9px;
+}
+.menu .boxes .box img.Espresso1 {
+    border-radius: 6px;
+}
 @media (max-width: 767px) {
     .menu .boxes {
         margin-top: 80px;
